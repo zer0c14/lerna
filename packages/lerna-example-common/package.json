@@ -1,6 +1,6 @@
 {
   "name": "@jmaxwell/lerna-example-common",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "lerna",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,9 @@
   },
   "author": "",
   "license": "ISC",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/aw2basc/lerna.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aw2basc/lerna.git"
   },
   "publishConfig": {
     "access": "public"
