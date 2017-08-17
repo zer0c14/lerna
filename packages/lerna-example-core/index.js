@@ -1,1 +1,1 @@
-console.log(require("lerna-example-common"));
+console.log(require("@jmaxwell/lerna-example-common"));
