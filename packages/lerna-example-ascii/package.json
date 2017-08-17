@@ -1,6 +1,6 @@
 {
   "name": "@jmaxwell/lerna-example-ascii",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "lerna",
   "main": "index.js",
   "scripts": {
