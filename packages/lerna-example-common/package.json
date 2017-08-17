@@ -1,6 +1,6 @@
 {
   "name": "@jmaxwell/lerna-example-common",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "lerna",
   "main": "index.js",
   "scripts": {
