@@ -46,11 +46,11 @@ XXXXX     XXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXX      XXXXXXXXXXXXXXXXXXXXXXXX
                            XXXXXXXXXXXX  XXXXXX XXXXX    XXXX XXXX XXXXXXXXX   
 ```
 
-# Lerna
+# Lerna  
 
 "A tool for managing JavaScript projects with multiple packages "  
 
-## monorepo
+## monorepo  
 
 1 repo vs multiple  
 
@@ -63,5 +63,3 @@ lerna updated
 lerna ls
 lerna publish
 ```
-
-
