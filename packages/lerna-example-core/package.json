@@ -1,13 +1,17 @@
 {
   "name": "@jmaxwell/lerna-core",
   "version": "0.0.4",
-  "description": "",
+  "description": "lerna",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/aw2basc/lerna.git"
+  },
   "publishConfig": {
     "access": "public"
   },
