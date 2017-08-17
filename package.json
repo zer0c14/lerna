@@ -1,4 +1,16 @@
 {
+  "name": "lerna",
+  "version": "0.0.0",
+  "description": "lerna",
+  "scripts": {
+    "start": "node ./packages/lerna-example-core/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aw2basc/lerna.git"
+  },
   "devDependencies": {
     "lerna": "^2.0.0-rc.5"
   }
