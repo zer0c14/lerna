@@ -1,6 +1,6 @@
 {
   "name": "@jmaxwell/lerna-core",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "lerna",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,6 @@
     "access": "public"
   },
   "dependencies": {
-    "@jmaxwell/lerna-example-common": "^0.0.7"
+    "@jmaxwell/lerna-example-common": "^0.0.8"
   }
 }
