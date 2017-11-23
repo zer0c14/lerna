@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "description": "lerna",
   "scripts": {
-    "start": "node ./packages/lerna-example-core/index.js"
+    "start": "node ./packages/lerna-example-core/index.js",
+    "postinstall": "lerna bootstrap"
   },
   "author": "",
   "license": "ISC",
